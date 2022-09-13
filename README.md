@@ -27,3 +27,10 @@ Código del reto propuesto y especificaciones
 - Tutorial para hacer el gráfico de tipo línea: [Línea](https://www.w3schools.com/ai/ai_chartjs.asp)
 - Tutorial para colocar botones que realicen acciones específicas: [Botón](https://www.w3schools.com/ai/ai_chartjs.asp)
 
+#### [Código en Funcionamiento](https://retoquantum.w3spaces.com/saved-from-Tryit-2022-09-08-kvslx.html "Código en Funcionamiento")
+
+#### Autor  
+
+Leyberth Jaaziel Castillo Guerra
+
+Contacto: leyberthc@gmail.com
