@@ -24,6 +24,6 @@ Código del reto propuesto y especificaciones
 
 - Tutoriales para elaborar gráficos tipo línea en [Charts Js](https://www.chartjs.org/ "Charts Js")
 
-- Tutorial para hacer el gráfico de tipo línea: [Línea]((https://www.w3schools.com/ai/ai_chartjs.asp)
-- Tutorial para colocar botones que realicen acciones específicas: [Botón]((https://www.w3schools.com/ai/ai_chartjs.asp)
+- Tutorial para hacer el gráfico de tipo línea: [Línea](https://www.w3schools.com/ai/ai_chartjs.asp)
+- Tutorial para colocar botones que realicen acciones específicas: [Botón](https://www.w3schools.com/ai/ai_chartjs.asp)
 
